@@ -4,6 +4,7 @@ Algoritma
 
 
 MULAI
+
     BACA bilangan1
     BACA bilangan2
     BACA bilangan3
