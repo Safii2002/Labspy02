@@ -1,6 +1,8 @@
 # Labspy02
 
 Algoritma
+
+
 MULAI
     BACA bilangan1
     BACA bilangan2
