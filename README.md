@@ -2,9 +2,7 @@
 
 Algoritma
 
-
-MULAI
-
+    MULAI
     BACA bilangan1
     BACA bilangan2
     BACA bilangan3
@@ -17,7 +15,7 @@ MULAI
         terbesar <- bilangan3
 
     TULIS "Bilangan terbesar adalah:", terbesar
-AKHIR
+    AKHIR
 
 
 flowchart
